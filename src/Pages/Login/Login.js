@@ -3,8 +3,7 @@ import { Button, Col, Container, NavLink, Row } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {  faShoppingCart} from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
-import img from '../../Images/login .jpg'
-import google from '../../Images/google.png'
+
 import './Login.css'
 
 function Login() {
@@ -67,7 +66,7 @@ function Login() {
                 </div>
                 <NavLink as={Link} to='/register' >Please Register</NavLink>
                 <input type="submit" value='LOGIN' />
-                <button><img style={{width:'30px', marginLeft:'30px'}} src={google} alt="" /></button>
+                <button><img style={{width:'30px', marginLeft:'30px'}}  alt="" /></button>
                 
             </div>
         </form>

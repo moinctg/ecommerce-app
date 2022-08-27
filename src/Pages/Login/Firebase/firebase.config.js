@@ -1,10 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBqVpqFlIl6U-4CeVg3JsO0J0KiUOSCAhQ",
-    authDomain: "e-shoper-238fa.firebaseapp.com",
-    projectId: "e-shoper-238fa",
-    storageBucket: "e-shoper-238fa.appspot.com",
-    messagingSenderId: "778159246333",
-    appId: "1:778159246333:web:c7292e632f1aebb793e794"
+  apiKey: "AIzaSyA_ezKy1FssPTLxZhTbZsbpW0lAUsg5Muw",
+  authDomain: "ecommerce-apps-3238b.firebaseapp.com",
+  projectId: "ecommerce-apps-3238b",
+  storageBucket: "ecommerce-apps-3238b.appspot.com",
+  messagingSenderId: "305233122134",
+  appId: "1:305233122134:web:50ff35a938b60fa9d3bcf7",
+  measurementId: "G-73KP2K1FLW"
   };
 
   export default firebaseConfig;

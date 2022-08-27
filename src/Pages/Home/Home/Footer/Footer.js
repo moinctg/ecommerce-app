@@ -9,86 +9,67 @@ const Footer = () => {
                      <div className='col-12 col-lg-10 mx-auto'>
                          <div className='row'>
                              <div className='col-6 col-lg-3'>
-                                <h2>Company</h2>
+                                <h2>Funshion</h2>
+                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                             </div>
+                             <div className='col-6 col-lg-3'>
+                                <h2>Need Help?</h2>
                                 <ul>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Support</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Get Started</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Terms Of like</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Privecy Policy</a>
                                     </li>
                                 </ul>
                              </div>
                              <div className='col-6 col-lg-3'>
-                                <h2>Support</h2>
+                                <h2>Need Help?</h2>
                                 <ul>
-                                    <li>
-                                        <a href="#about">About</a>
+                                <li>
+                                        <a href="#about">Support</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Get Started</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Terms Of like</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Privecy Policy</a>
                                     </li>
                                 </ul>
                              </div>
                              <div className='col-6 col-lg-3'>
-                                <h2>Services</h2>
+                             <h2>Need Help?</h2>
                                 <ul>
-                                    <li>
-                                        <a href="#about">About</a>
+                                <li>
+                                        <a href="#about">Support</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Get Started</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Terms Of like</a>
                                     </li>
                                     <li>
-                                        <a href="#about">About</a>
+                                        <a href="#about">Privecy Policy</a>
                                     </li>
                                 </ul>
-                             </div>
-                             <div className='col-6 col-lg-3'>
-                                <h2>Follow Us</h2>
-                                <div className='row'>
-                                <div className='col-3 mx-auto'>
-                                    <a href="#">
-                                    <i class="fab fa-facebook fontawesome-style"></i>
-                                    </a>
-                                </div>
-                                <div className='col-3 mx-auto'>
-                                    <a href="#">
-                                    <i class="fab fa-instagram fontawesome-style"></i>
-                                    </a>
-                                </div>
-                                <div className='col-3 mx-auto'>
-                                    <a href="#">
-                                    <i class="fab fa-twitter fontawesome-style"></i>
-                                    </a>
-                                </div>
-                                <div className='col-3 mx-auto'>
-                                    <a href="#">
-                                    <i class="fab fa-instagram fontawesome-style"></i>
-                                    </a>
-                                </div>
-                                </div>
+                                
+                                
                              </div>   
                          </div>
                           <hr />
                           <div className='mt-5'>
-                          <p className='text-center w-100'>
-                              Copyright @ 2022 e-shop. All right Reserved.
+                          <p className='text-left w-100'>
+                          Copyright @ Funshion. All Right Reserved.
                           </p>
                           </div>
                       </div>
