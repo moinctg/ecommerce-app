@@ -1,55 +1,101 @@
 import React from 'react';
-import './Footer.css';
-
+import "./Footer.css";
 const Footer = () => {
     return (
-        <div className="Container footer py-4 mt-4" >
-            <div className="row">
-                <div className="col-md-3">
-                    <p className='text-white p-5'>95,Agrabad C/A,Agrabad,Chittagong</p>
-
-                </div>
-                <div className="col-md-3">
-                    <h3 className='text-white p-4'>Company</h3>
-                    <h5 className='text-white'>About</h5> <br />
-                    <h5 className='text-white'>Project</h5> <br />
-                    <h5 className='text-white'>Our Team</h5> <br />
-                    <h5 className='text-white'>Term Conditions</h5> <br />
-                    <h5 className='text-white'>Submit Lisiting</h5> <br />
-
-                </div>
-                <div className="col-md-3">
-                    <h3 className='text-white p-4'>Quick Links</h3>
-                    <h5 className='text-white'>Quick Links</h5> <br />
-                    <h5 className='text-white'>Quick Links</h5> <br />
-                    <h5 className='text-white'>Quick Links</h5> <br />
-                    <h5 className='text-white'>Quick Links</h5> <br />
-                    <h5 className='text-white'>Quick Links</h5> <br />
-
-                </div>
-                <div className="col-md-3 p-4">
-                    <h3 className='text-white'>About Us</h3>
-                    <p className="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat</p>
+        <>
+            <footer>
+                <div className='container'>
                     <div className='row'>
-                        <div classsName='col-md-3'>
-                       
-                        </div>
-                        <div classsName='col-md-3'>
-
-                        </div>
-                        <div classsName='col-md-3'>
-
-                        </div>
-                        <div classsName='col-md-3'>
-
-                        </div>
+                     <div className='col-12 col-lg-10 mx-auto'>
+                         <div className='row'>
+                             <div className='col-6 col-lg-3'>
+                                <h2>Company</h2>
+                                <ul>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                </ul>
+                             </div>
+                             <div className='col-6 col-lg-3'>
+                                <h2>Support</h2>
+                                <ul>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                </ul>
+                             </div>
+                             <div className='col-6 col-lg-3'>
+                                <h2>Services</h2>
+                                <ul>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#about">About</a>
+                                    </li>
+                                </ul>
+                             </div>
+                             <div className='col-6 col-lg-3'>
+                                <h2>Follow Us</h2>
+                                <div className='row'>
+                                <div className='col-3 mx-auto'>
+                                    <a href="#">
+                                    <i class="fab fa-facebook fontawesome-style"></i>
+                                    </a>
+                                </div>
+                                <div className='col-3 mx-auto'>
+                                    <a href="#">
+                                    <i class="fab fa-instagram fontawesome-style"></i>
+                                    </a>
+                                </div>
+                                <div className='col-3 mx-auto'>
+                                    <a href="#">
+                                    <i class="fab fa-twitter fontawesome-style"></i>
+                                    </a>
+                                </div>
+                                <div className='col-3 mx-auto'>
+                                    <a href="#">
+                                    <i class="fab fa-instagram fontawesome-style"></i>
+                                    </a>
+                                </div>
+                                </div>
+                             </div>   
+                         </div>
+                          <hr />
+                          <div className='mt-5'>
+                          <p className='text-center w-100'>
+                              Copyright @ 2022 e-shop. All right Reserved.
+                          </p>
+                          </div>
+                      </div>
                     </div>
                 </div>
-
-            </div>
-
-          
-        </div>
+            </footer>
+        </>
     );
 };
 

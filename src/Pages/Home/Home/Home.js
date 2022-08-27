@@ -1,22 +1,16 @@
 import React from 'react';
-import Banner from './Banner/Banner';
-import Service from './Services/Services';
-import Testimonials from './Testimonials/Testomonials';
-import ProductBanner from './ProductBanner/ProductBanner';
-import Contact from './Contact/Contact';
-import Footer from './Footer/Footer';
+import CategoryBanner from './CategoryBanner/CategoryBanner';
+import ItemContainer from './ItemContainer/ItemContainer';
+import TopBanner from './TopBanner/TopBanner';
 
-const Home = () => {
-    return (
-        <div>
-            <Banner> </Banner>
-            <Service></Service>
-            <ProductBanner></ProductBanner>
-            <Testimonials></Testimonials>
-            <Contact></Contact>
-            <Footer></Footer>
-        </div>
-    );
-};
+function Home() {
 
+  return (
+    <div>
+      <TopBanner/>
+      <CategoryBanner/>
+      <ItemContainer/>
+    </div>
+  );
+  }
 export default Home;
