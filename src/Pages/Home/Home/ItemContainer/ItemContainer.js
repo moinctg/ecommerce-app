@@ -5,7 +5,8 @@ import { Col, Container, Nav, Row, Tab } from 'react-bootstrap';
 import Product from '../Product/Product';
 import './itemContainer.css'
 
-const ItemContainer = () => {
+const ItemContainer = (props) => {
+    console.log(props.product)
     
     
     return (

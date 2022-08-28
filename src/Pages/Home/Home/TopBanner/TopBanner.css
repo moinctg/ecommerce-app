@@ -1,3 +1,25 @@
 .clock{
+    margin-top: 100px;
     background-color: black;
+    color:#ffffff;
+    width: 20.6255em;
+    height: 12em;
+   
+}
+.timer{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    margin: 1 em;
+  
+   
+}
+.timer dev:first-child{
+    color: #f8f8f8;
+
+}
+
+section p:first-child, .timer div:last-child span{
+    font-size: 3em;
+    
+    
 }

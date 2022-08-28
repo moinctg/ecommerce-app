@@ -11,12 +11,12 @@ const CategoryBanner = () => {
                     <button className="category-button">DISCOVER NOW</button>
                 </div>
                 <div className="collections bag">
-                    <span className="title">Bag Collections</span>
+                    <span className="title">Woman Collection</span>
                     <h4>Awesome Bag <br/> 2020</h4>
                     <button className="category-button">SHOP NOW</button>
                 </div>
                 <div className="collections flash">
-                    <span className="title">Flash Sale</span>
+                    <span className="title">Man's Collections</span>
                     <h4>Mid Season <br/> Up To <span style={{color:'orange'}}>40%</span> Off</h4>
                     <button className="category-button">DISCOVER NOW</button>
                 </div>
