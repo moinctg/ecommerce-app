@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "A. B. M. Ahasan Ullah",
+    "email": "ahasan.ullah.andriod@gmail.com",
+    "position": "AVP Infrastructure & Network; ICT Security & Risk Dept.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/DktZFzr/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ripan Chowdhury",
+    "email": "chyripan@gmail.com",
+    "position": "AsstGeneral Manager , IT & Administration.",
+    "salary": 80000,
+    "img": "https://i.ibb.co/KDdtFnK/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Shah Paran",
+    "email": "shahparan06@gmail.com",
+    "position": "Head - IT Infrastructure & Network Security (Manager).",
+    "salary": 70000,
+    "img": "https://i.ibb.co/M85HXjj/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Md. Saiful Islam Mahin",
+    "email": "mahinctg@gmail.com",
+    "position": "Manager Network & Database Infrastructure.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/YL7JkYp/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tamim Wahid Al-Helal",
+    "email": "tamim.wahid@gmail.com",
+    "position": "Head of IT.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/7Y6SN0z/5.jpg"
+  }
+,
+  {
+    "id": 6,
+    "name": "Md. Abdullah Farid",
+    "email": "mdabdullahfarid@gmail.com",
+    "position": "Head of IT",
+    "salary": 70000,
+    "img": "https://i.ibb.co/jrCQtYk/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Abdul Bashet",
+    "email": "bashet.iub@gmail.com",
+    "position": "Head of IT.",
+    "salary": 80000,
+    "img": "https://i.ibb.co/BtpzF41/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Md. Shafiqul Haider",
+    "email": "colctg1@gmail.com",
+    "position": "Senior Admin (Sys & Net).",
+    "salary": 90000,
+    "img": "https://i.ibb.co/1m34HX0/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nur Sakibul Huda",
+    "email": "jetsakib@gmail.com",
+    "position": "Senior Executive IT Operations",
+    "salary": 60000,
+    "img": "https://i.ibb.co/r4VC2ZK/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Manash Chowdhury",
+    "email": "chymanash@gmail.com",
+    "position": "Team Member Hardware Network.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/vjXB9wZ/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "helal.nreach@gmail.com",
+    "email": "tamim.wahid@gmail.com",
+    "position": "Assistant Manage",
+    "salary": 50000,
+    "img": "https://i.ibb.co/JC66gXq/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Nazmul Karim Mazumder",
+    "email": "nazmul.itcs@gmail.com",
+    "position": "Head of IT.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/HdMhQyH/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mohammed Apu Sarwar",
+    "email": "robin_nov17@yahoo.com",
+    "position": "Head of IT.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/6cMsdm1/13.png"
+  },
+  {
+    "id": 14,
+    "name": "Mohammad Nayeemul Hossain Choudhury",
+    "email": "nayeemul.hossain@gmail.com",
+    "position": "Senior Executive IT Software Support.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/khyDRXZ/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Abdullah Al Arman",
+    "email": "armanbsrm@gmail.com",
+    "position": "Manager IT Operations.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/hsYnP0t/15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Md. Lutful Afsar Adnan",
+    "email": "adnanctg83@gmail.com",
+    "position": "Deputy Manager.",
+    "salary": 40000,
+    "img": "https://i.ibb.co/vYyyh1C/16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sarwar Hossain",
+    "email": "sarwar9000@gmail.com",
+    "position": "Asst. Manager (IT).",
+    "salary": 40000,
+    "img": "https://i.ibb.co/yh2DjwK/17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Shayem Khan",
+    "email": "mshayem@gmail.comm",
+    "position": "Senior Manager\t.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/SKShTcL/18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sujat Anwar Siddiqueel",
+    "email": "sujatctg@gmail.com",
+    "position": "Head of IT.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/Gkx8ZvT/19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "SM IMRAN HOSSAIN",
+    "email": "imrubd@gmail.com",
+    "position": "Sr.Executive IT.",
+    "salary": 70000,
+    "img": "https://i.ibb.co/kHsR5zG/20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Muhammed Abdul Mubin",
+    "email": "mubin6@gmail.com",
+    "position": "Deputy General Manager.",
+    "salary": 60000,
+    "img": "https://i.ibb.co/KjcX4GS/21.jpg"
+  }
+
+]

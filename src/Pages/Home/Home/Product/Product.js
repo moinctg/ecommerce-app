@@ -1,29 +1,28 @@
 import React, { useEffect, useState } from 'react';
-import ItemContainer from '../ItemContainer/ItemContainer';
+import Products from '../Products/Products';
 import './product.css'
 const Product = () => {
-    const [product,setProduct] = useState([])
-  useEffect(()=>{
-  fetch('https://fakestoreapi.com/products')
-  .then(res=>res.json())
-  .then(json=>setProduct(json))
-  
-   } ,[])
+    const [products,setProduct] = useState([])
+     useEffect(()=>{
+        fetch('https://fakestoreapi.com/products')
+               .then(res=>res.json())
+               .then(data=>setProduct(data))
+     },[])
  
     return (
-        <div className="shadow border">
-            <div className="img-container">
+        <div className="container">
+            <div className="card ">
                 
             </div>
-            <div className="card-info p-2">
-                {
-                    product.map(product=><ItemContainer
-                  
-                    product={product}
+            <div className="">
+            {
+                    products.map(product => <Products
                     
+                 
+                    product={product}
                     >
 
-                    </ItemContainer>)
+                    </Products>)
                 }
                 
                 </div>
